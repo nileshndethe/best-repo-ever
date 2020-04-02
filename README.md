@@ -2,4 +2,4 @@
 
 This is test first commit.
 
-This is merge conflcts test. will get merge conflcts now.
+This will get merge conflcts now.
